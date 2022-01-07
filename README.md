@@ -80,3 +80,5 @@ project. You could contact me in one of the following ways.
 Yi Ding -[My LinkedIn Page](https://www.linkedin.com/in/yi-kevin-ding-1ba281213/)
 
 Email - kevinryiding@gmail.com
+
+GitHub - https://github.com/kevinyiding/FindingBook
